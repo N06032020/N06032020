@@ -2,7 +2,7 @@
 🌱 I’m currently learning ...
 
 ### Languages and tools:
-- HTML5, CSS3, SASS, Bootstrap
+- HTML5, CSS3, SASS
 - JavaScript(base, keep studying)
 - Gulp, jQuery, Git
 <!--
