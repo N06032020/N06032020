@@ -1,10 +1,7 @@
 ### Hi there, i'm Nick 👋
 🌱 I’m currently learning ...
 
-### Languages and tools:
-- HTML5, CSS3, SASS
-- JavaScript(base, keep studying)
-- Gulp, jQuery, Git
+
 <!--
 **N06032020/N06032020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
