@@ -2,7 +2,11 @@
 🌱 I’m currently learning ...
 
 ### Languages and tools:
-HTML5
+- Google
+- VS Code
+- HTML5, CSS3, SASS, Bootstrap
+- JavaScript(base, keep studying)
+- Gulp, BEM, jQuery, Git, GitHub
 <!--
 **N06032020/N06032020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
